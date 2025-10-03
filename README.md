@@ -1,4 +1,5 @@
-## Hi I am Bozorvoy👋
+## Hi I am Bozorboy👋
+<h3>Biz hozir barchamiz githubda faol ishlamoqdamiz</h3>
 
 <!--
 **Ozodovv/Ozodovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
