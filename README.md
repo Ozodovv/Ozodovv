@@ -1,5 +1,9 @@
 ## Hi I am Bozorboy👋
 <h3>Biz hozir barchamiz githubda faol ishlamoqdamiz</h3>
+<ol>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Icon" width="40" height="40"/>
+
+</ol>
 
 <!--
 **Ozodovv/Ozodovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
