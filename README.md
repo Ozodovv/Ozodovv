@@ -1,6 +1,6 @@
 # 👋 Salom! Men **Ozodovv** 💻
 
-## 🌌 Ultra Pro Developer – Kod va Texnologiyalar Olami
+## 🌌 Ultra Pro maks Developer – Kod va Texnologiyalar Olami
 
 ![Banner](./a_github_profile_banner_and_profile_picture_featur.png)
 
