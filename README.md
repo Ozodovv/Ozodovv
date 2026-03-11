@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ozodovv&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -58,5 +58,5 @@
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Ozodovv&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
